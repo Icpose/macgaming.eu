@@ -1,0 +1,20 @@
+:root {
+  --body-bg: 248, 248, 248;
+  --body-clr: 20, 20, 20;
+
+  --section-bg: 255, 255, 255;
+  --section-border-clr: 0, 0, 0, 10%;
+
+  --primary: 0, 122, 255;
+  --black: 0, 0, 0;
+  --white: 255, 255, 255;
+  --muted: 140, 140, 140;
+
+  --rounded-none: 0px;
+  --rounded-xs: 2px;
+  --rounded-sm: 4px;
+  --rounded-md: 6px;
+  --rounded-lg: 8px;
+  --rounded-xl: 10px;
+  --rounded-2xl: 12px;
+}
